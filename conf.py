@@ -54,7 +54,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-import sphinx_material
+# import sphinx_material
 html_theme = 'sphinx_material'
 html_theme_path = [r'c:\Users\Darya\AppData\Roaming\Python\Python38\site-packages\sphinx_material\sphinx_material']
 
