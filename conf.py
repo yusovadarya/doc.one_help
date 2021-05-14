@@ -56,7 +56,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 #
 # import sphinx_material
 html_theme = 'sphinx_material'
-# html_theme_path = [r'c:\Users\Darya\AppData\Roaming\Python\Python38\site-packages\sphinx_material\sphinx_material']
+# html_theme_path = ['c:\Program Files\Python38\Lib\site-packages\sphinx_material\sphinx_material']
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
